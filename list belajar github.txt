@@ -1,1 +1,3 @@
-test
+Hari ini saya belajar
+- cara bikin repo di github
+- cara bikin branch
